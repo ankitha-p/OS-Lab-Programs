@@ -1,0 +1,28 @@
+ Enter the number of processes running :3
+
+ Enter the number of resources (<5) :3
+
+ Input the allocation matrix for the processes in row major order..
+1 1 0
+2 0 1
+0 1 0
+
+ Enter the no. of maximum resources matrix
+2 1 1
+2 1 1
+1 2 0
+
+ Enter the no. of available instances:
+3 2 1
+
+ The need matrix is as follows : 
+	 1	 0	 1
+	 0	 1	 0
+	 1	 1	 0
+
+ *******************IT'S A SAFE STATE*******************
+ The safe sequence is....
+	 P0	 P1	 P2
+
+ The available matrix is now : 	 6	 4	 2
+

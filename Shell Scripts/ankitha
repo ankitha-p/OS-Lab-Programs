@@ -1,0 +1,4 @@
+name="Ankitha";
+num=122;
+echo "name is $name";
+echo "num is $num";

@@ -1,0 +1,7 @@
+
+
+echo "There are $# parameters";
+echo "the parameters are $@";
+echo "the script name $0";
+echo "the first parameter $1";
+echo "the second parameter is $2";
